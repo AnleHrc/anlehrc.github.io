@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: personal_introduce2.png
+  image: personal_introduce.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Yzzzh</p>
@@ -33,7 +33,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-您好，我是Zihuang，目前硕士毕业，准备攻读博士。我的研究方向是：参考蒸散发、降水、温度、太阳辐射、水位预测、
+<!-- 您好，我是Zihuang，目前硕士毕业，准备攻读博士。我的研究方向是：参考蒸散发、降水、温度、太阳辐射、水位预测、
 时间序列的气象要素预报、基于AI天气大模型的气象预报改进。除此之外，我对于使用UnreaEngine 5游戏开发有一定的了解。
 
-硕士期间已发表了四篇SCI论文（一作者），二作/三作两篇，专利两篇。本科到硕士主要就读于计算机科学和电子信息专业，主要研究的内容涉及到使用AI解决一些气象预报的问题。
+硕士期间已发表了四篇SCI论文（一作者），二作/三作两篇，专利两篇。本科到硕士主要就读于计算机科学和电子信息专业，主要研究的内容涉及到使用AI解决一些气象预报的问题。 -->
