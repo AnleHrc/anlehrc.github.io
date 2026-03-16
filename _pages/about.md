@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: about
 title: about
 permalink: /
@@ -29,13 +29,13 @@ latest_posts:
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- 
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. --> -->
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-
-<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
 
----
+<!-- ---
 layout: about
 title: about
 permalink: /
@@ -73,4 +73,4 @@ latest_posts:
 - **机器学习算法应用**：熟练运用 XGBoost、RF、LightGBM 等模型进行回归与分类任务（如电价预测）。
 - **游戏开发与数字孪生**：熟悉 Unreal Engine 5 (UE5) 游戏开发，掌握 AI 行为树、状态机，并参与过基于 UE5 的城市绿色规划数字孪生系统开发。
 
-欢迎通过邮件或下方的社交链接与我交流探讨！
+欢迎通过邮件或下方的社交链接与我交流探讨！ -->
