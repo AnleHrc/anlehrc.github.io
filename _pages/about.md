@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations: a</a>.
 
 profile:
   align: right
-  image: personal_introduce.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Yzzzh</p>
