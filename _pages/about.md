@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>江西水利电力大学</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
