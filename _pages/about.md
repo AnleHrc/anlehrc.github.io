@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations: 江西水利电力大学</a>. 
+subtitle: <a href='#'>Affiliations: a</a>. 
 
 profile:
   align: right
@@ -27,10 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-您好，我是Zihuang，目前硕士毕业，准备攻读博士。我的研究方向是：参考蒸散发、降水、温度、太阳辐射、水位预测、
-时间序列的气象要素预报、基于AI天气大模型的气象预报改进。除此之外，我对于使用UnreaEngine 5游戏开发有一定的了解。
-
-硕士期间已发表了四篇SCI论文（一作者），二作/三作两篇，专利两篇。本科到硕士主要就读于计算机科学和电子信息专业，主要研究的内容涉及到使用AI解决一些气象预报的问题。
+SSSSS
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
