@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-ue5-2-5-3-使用rider编译-c-gas",
+        
+          title: "UE5.2 5.3 使用Rider编译（C++）GAS",
+        
+        description: "解决DirectX找不到及GAS模块添加报错问题",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/my-first-post/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
