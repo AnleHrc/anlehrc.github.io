@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: UE5.2 5.3 使用Rider编译（C++）GAS
-date: 2026-03-17 22:15
+date: 2026-03-16
 description: 解决DirectX找不到及GAS模块添加报错问题
 tags: UE5 C++
 categories: game-dev
