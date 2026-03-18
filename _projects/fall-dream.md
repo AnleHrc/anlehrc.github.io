@@ -2,7 +2,7 @@
 layout: page
 title: 独立游戏 Demo：《坠梦》
 description: UE5 硬核主题独立游戏 Demo 开发日记
-img: assets/img/game_development/fall-dream-cover.jpg
+img: assets/img/game_development/fall-dream-cover.png
 importance: 1
 category: game
 ---
@@ -15,7 +15,7 @@ category: game
     <div class="col-sm mt-3 mt-md-0">
         <div style="position: relative; width: 100%; aspect-ratio: 16/9; margin-bottom: 20px;">
             <iframe 
-                src="https://player.bilibili.com/player.html?bvid=你的BV号&page=1&high_quality=1&danmaku=0" 
+                src="https://player.bilibili.com/player.html?isOutside=true&aid=114105084154920&bvid=BV1mH9HY2E7k&cid=28691335957&p=1" 
                 scrolling="no" 
                 border="0" 
                 frameborder="no" 
