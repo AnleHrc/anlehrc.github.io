@@ -2,7 +2,7 @@
 layout: page
 title: 独立游戏 Demo：《坠梦》
 description: UE5 硬核主题独立游戏 Demo 开发日记
-img: /assets/img/fall-dream-cover.jpg # 这里填你上传的封面图路径
+img: /assets/img/game_development/fall-dream-cover.jpg # 这里填你上传的封面图路径
 importance: 1  # 这决定它排列的先后顺序，数字越小越靠前
 category: game # 分类标签，会自动排版
 ---
