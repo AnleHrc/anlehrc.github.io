@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>江西水利电力大学</a>. 
+subtitle: <a href='https://www.juwp.edu.cn/'>江西水利电力大学</a>. 
 
 profile:
   align: right
