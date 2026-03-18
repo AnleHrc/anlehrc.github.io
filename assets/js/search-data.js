@@ -64,11 +64,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-独立游戏-demo-坠梦",
-          title: '独立游戏 Demo：《坠梦》',
+          section: "News",},{id: "projects-独立游戏-demo-坠梦-gamejam",
+          title: '独立游戏 Demo：《坠梦》（GameJam）',
           description: "UE5 硬核主题独立游戏 Demo 开发日记",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fall-dream/";
+            },},{id: "projects-独立游戏-forest",
+          title: '独立游戏：《FOREST》',
+          description: "GMTK Game Jam 参赛作品开发演示",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/forest/";
+            },},{id: "projects-独立游戏-云上之猫",
+          title: '独立游戏：《云上之猫》',
+          description: "参与 Game Jam 竞赛的 UE5 游戏开发记录",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/the-cat-on-the-cloud/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
