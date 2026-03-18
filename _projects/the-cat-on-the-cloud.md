@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 独立游戏 Demo：《坠梦》（GameJam）
-description: UE5 硬核主题独立游戏 Demo 开发日记
-img: assets/img/game_development/fall-dream-cover.png
+title: 独立游戏：《云上之猫》
+description: 参与 Game Jam 竞赛的 UE5 游戏开发记录
+img: assets/img/game_development/the-cat-on-the-cloud-cover.png
 importance: 1
 category: game
 ---
 
-这是我使用 Unreal Engine 5 独立开发的一款硬核主题游戏 Demo《坠梦》(Fall Dream)。
+这是我使用 Unreal Engine 5 参与 Game Jam 竞赛时，在极短的极限时间内独立开发完成的一款游戏《云上之猫》(Cat on the Cloud)。
 
 ### 🎮 游戏实机演示
 
@@ -15,7 +15,7 @@ category: game
     <div class="col-sm mt-3 mt-md-0">
         <div style="position: relative; width: 100%; aspect-ratio: 16/9; margin-bottom: 20px;">
             <iframe 
-                src="https://player.bilibili.com/player.html?isOutside=true&aid=114105084154920&bvid=BV1mH9HY2E7k&cid=28691335957&p=1" 
+                src="https://player.bilibili.com/player.html?bvid=BV1wX4y1C7RN&page=1&high_quality=1&danmaku=0" 
                 scrolling="no" 
                 border="0" 
                 frameborder="no" 
@@ -30,9 +30,7 @@ category: game
 ### 🛠️ 技术亮点与开发细节
 * **游戏引擎**：Unreal Engine 5
 * **核心开发**：
-    * 采用 C++ 与 Blueprints 混合开发，构建了稳定且高扩展性的底层框架。
-    * 设计并实现了基于行为树（Behavior Tree）的 AI 系统，提升了场景互动性。
-    * （可根据实际情况继续补充，例如 GAS 系统、Lumen 光照等）
-* **开发周期**：3 个月（请根据实际情况修改）
+    * 在 Game Jam 的极限时间限制下，快速完成了核心交互逻辑的蓝图搭建与快速迭代。
+* **开发周期**：Game Jam 竞赛期间（72 小时）
 
 如果你对我的开发过程感兴趣，欢迎在 [Bilibili](https://space.bilibili.com/301944284) 上关注我的后续更新！

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 独立游戏 Demo：《坠梦》（GameJam）
-description: UE5 硬核主题独立游戏 Demo 开发日记
-img: assets/img/game_development/fall-dream-cover.png
-importance: 1
+title: 独立游戏：《FOREST》
+description: GMTK Game Jam 参赛作品开发演示
+img: assets/img/game_development/forest-cover.png
+importance: 3
 category: game
 ---
 
-这是我使用 Unreal Engine 5 独立开发的一款硬核主题游戏 Demo《坠梦》(Fall Dream)。
+这是我使用 Unreal Engine 5 参加全球知名的 GMTK Game Jam 游戏开发极限挑战赛时，创作的一款独立游戏 Demo《森林》(FOREST)。
 
 ### 🎮 游戏实机演示
 
@@ -15,7 +15,7 @@ category: game
     <div class="col-sm mt-3 mt-md-0">
         <div style="position: relative; width: 100%; aspect-ratio: 16/9; margin-bottom: 20px;">
             <iframe 
-                src="https://player.bilibili.com/player.html?isOutside=true&aid=114105084154920&bvid=BV1mH9HY2E7k&cid=28691335957&p=1" 
+                src="https://player.bilibili.com/player.html?bvid=BV19AhKzYEPU&page=1&high_quality=1&danmaku=0" 
                 scrolling="no" 
                 border="0" 
                 frameborder="no" 
@@ -30,9 +30,7 @@ category: game
 ### 🛠️ 技术亮点与开发细节
 * **游戏引擎**：Unreal Engine 5
 * **核心开发**：
-    * 采用 C++ 与 Blueprints 混合开发，构建了稳定且高扩展性的底层框架。
-    * 设计并实现了基于行为树（Behavior Tree）的 AI 系统，提升了场景互动性。
-    * （可根据实际情况继续补充，例如 GAS 系统、Lumen 光照等）
-* **开发周期**：3 个月（请根据实际情况修改）
+    * 应对 Game Jam 的极限开发节奏，快速确立核心玩法并完成了逻辑原型的蓝图实现。
+* **开发周期**：GMTK Game Jam（48 小时极限开发）
 
 如果你对我的开发过程感兴趣，欢迎在 [Bilibili](https://space.bilibili.com/301944284) 上关注我的后续更新！
